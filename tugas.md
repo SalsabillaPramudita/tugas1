@@ -21,6 +21,7 @@ Materi :
 ##### Command Line Interface(CLI)
 **CLI** adalah mekanisme interaksi dengan sistem operasi atau perangkat lunak komputer dengan mengetikkan perintah untuk menjalankan tugas tertentu
 Cara mengakases CLI di laptop atau PC dengan sistem operasi windows dapat menekan win+R, lalu mengetikkan "cmd"
+![image.png]( {https://github.com/SalsabillaPramudita/tugas1/issues/1#issue-1387385629} )
 
 
 
